@@ -1,5 +1,8 @@
 ▪️▪️Cofiest Database▪️▪️
 
+Co(Compact) fi(File) rest(RESTful) Database
+読み方
+
 Cofiest Databaseは、ファイル管理を用いてDBの機能を実装するものとなります。
 情報へのアクセスはRESTfulなAPIを用いることが特徴となります。
 
